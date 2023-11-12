@@ -1,3 +1,2 @@
 # Student-Bio-Task
-Student bio task using HTML and also CSS.
-Created changes to better understand GitHub.
+Attempt at using Github. To be ignored.
